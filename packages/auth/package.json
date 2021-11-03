@@ -1,0 +1,22 @@
+{
+  "name": "@mrt/auth",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "mlg_Vu.Van.Thanh.Luan <luan.vu@monstar-lab.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/auth.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "@mrt/api": "^0.0.0"
+  }
+}

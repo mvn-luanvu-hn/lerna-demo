@@ -1,0 +1,23 @@
+{
+  "name": "@mrt/api",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "mlg_Vu.Van.Thanh.Luan <luan.vu@monstar-lab.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/api.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "figlet": "^1.5.2",
+    "jest": "^27.3.1"
+  }
+}
