@@ -3,5 +3,7 @@
 const auth = require('..');
 
 describe('auth', () => {
-    it('needs tests');
+    it('needs tests', () => {
+        expect(2).toBe(2)
+    });
 });
