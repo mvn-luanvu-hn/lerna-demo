@@ -1,6 +1,6 @@
 {
   "name": "@mrt/auth",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "> TODO: description",
   "author": "mlg_Vu.Van.Thanh.Luan <luan.vu@monstar-lab.com>",
   "homepage": "",
@@ -17,7 +17,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@mrt/api": "^1.0.1"
+    "@mrt/api": "^1.0.2"
   },
   "publishConfig": {
     "access": "public"
