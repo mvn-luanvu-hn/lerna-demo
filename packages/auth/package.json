@@ -1,5 +1,5 @@
 {
-  "name": "@mrt/auth",
+  "name": "@luanvuvt/auth",
   "version": "1.0.4",
   "description": "> TODO: description",
   "author": "mlg_Vu.Van.Thanh.Luan <luan.vu@monstar-lab.com>",
@@ -17,10 +17,10 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@mrt/api": "^1.0.4"
+    "@luanvuvt/api": "^1.0.4"
   },
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "9eb2ce02e38ce14275bac50c148305750092066c"
+  "gitHead": "eeaa7918173b7e21f11a539d201543d251a63c48"
 }
