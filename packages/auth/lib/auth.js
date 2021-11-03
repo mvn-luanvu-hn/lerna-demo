@@ -1,6 +1,6 @@
 'use strict';
 
-const api = require('@mrt/api')
+const api = require('@luanvuvt/api')
 
 module.exports = auth;
 
