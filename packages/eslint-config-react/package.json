@@ -28,6 +28,7 @@
   },
   "dependencies": {
     "eslint-config-airbnb-typescript-prettier": "^4.2.0",
+    "eslint-import-resolver-typescript": "^2.5.0",
     "eslint-plugin-filenames": "^1.3.2"
   },
   "peerDependencies": {
