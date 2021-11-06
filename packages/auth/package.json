@@ -22,7 +22,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "eeaa7918173b7e21f11a539d201543d251a63c48",
+  "gitHead": "e710dbb3fb17d79c457fa8dea3a287355602d008",
   "devDependencies": {
     "jest": "^27.3.1"
   }
