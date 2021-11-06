@@ -24,6 +24,6 @@
   },
   "gitHead": "d967da651e25d740b74f3c30ad9bff5e161a17a1",
   "devDependencies": {
-    "jest": "^27.3.1"
+    "jest": "^26.6.0"
   }
 }
