@@ -36,5 +36,5 @@
     "prettier": "^1.18.2 || ^2.0.0",
     "typescript": ">=3.3.1"
   },
-  "gitHead": "e710dbb3fb17d79c457fa8dea3a287355602d008"
+  "gitHead": "5d5edc1cfe0e9bca211154b0e6cd8153f058da4b"
 }
