@@ -1,6 +1,6 @@
 {
   "name": "@luanvuvt/auth",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "> TODO: description",
   "author": "mlg_Vu.Van.Thanh.Luan <luan.vu@monstar-lab.com>",
   "homepage": "",
@@ -17,7 +17,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "@luanvuvt/api": "^1.0.12"
+    "@luanvuvt/api": "^1.0.13"
   },
   "publishConfig": {
     "access": "public"
