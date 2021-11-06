@@ -1,6 +1,6 @@
-52 error Error: Command failed with exit code 128: git add -- packages/eslint-config-react/package.json packages/api/package.json packages/ui-react/package.json packages/auth/package.json packages/app/package.json lerna.json
-52 error fatal: Pathspec 'packages/ui-react/package.json' is in submodule 'packages/ui-react'
-52 error     at makeError (/Users/luan.vu/work/mlvn/projects/learning/nextjs/repo/react-template/node_modules/execa/lib/error.js:60:11)
-52 error     at handlePromise (/Users/luan.vu/work/mlvn/projects/learning/nextjs/repo/react-template/node_modules/execa/index.js:118:26)
-52 error     at processTicksAndRejections (internal/process/task_queues.js:95:5)
-52 error     at async Promise.all (index 0)
+56 error Error: Command failed with exit code 128: git add -- packages/ui-react/package.json packages/eslint-config-react/package.json packages/api/package.json packages/app/package.json packages/auth/package.json lerna.json
+56 error fatal: Pathspec 'packages/ui-react/package.json' is in submodule 'packages/ui-react'
+56 error     at makeError (/Users/luan.vu/work/mlvn/projects/learning/nextjs/repo/react-template/node_modules/execa/lib/error.js:60:11)
+56 error     at handlePromise (/Users/luan.vu/work/mlvn/projects/learning/nextjs/repo/react-template/node_modules/execa/index.js:118:26)
+56 error     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+56 error     at async Promise.all (index 0)
