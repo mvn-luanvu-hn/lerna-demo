@@ -3,9 +3,9 @@
 > TODO: description
 
 ## Usage
-
+.eslintrc.js
 ```
-const eslintConfigReact = require('@luanvuvt/eslint-config-react');
-
-// TODO: DEMONSTRATE API
+module.exports = {
+  extends: ["@luanvuvt/eslint-config-react"],
+};
 ```
