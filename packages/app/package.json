@@ -1,9 +1,9 @@
 {
   "name": "app",
-  "version": "1.0.21",
+  "version": "1.0.22",
   "private": true,
   "dependencies": {
-    "@luanvuvt/react-shared": "^1.0.21",
+    "@luanvuvt/react-shared": "^1.0.22",
     "@reduxjs/toolkit": "^1.6.2",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
