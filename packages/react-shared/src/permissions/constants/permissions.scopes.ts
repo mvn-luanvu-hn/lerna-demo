@@ -7,5 +7,6 @@ export enum PermissionEnum {
   USERS_CREATE = 'users:create',
   USERS_READ = 'users:read',
   USERS_WRITE = 'users:write',
-  USERS_DELETE = 'users:delete'
+  USERS_DELETE = 'users:delete',
+  USERS_TEST = 'users:test',
 }
