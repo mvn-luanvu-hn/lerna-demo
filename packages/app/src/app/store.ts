@@ -1,5 +1,5 @@
 import { configureStore, ThunkAction, Action } from '@reduxjs/toolkit';
-import { permissionsReducer } from '@luanvuvt/react-shared'
+import { permissionsReducer } from '@luanvuvt/react-shared/permissions'
 
 export const store = configureStore({
   reducer: {

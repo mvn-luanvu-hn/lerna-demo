@@ -1,6 +1,6 @@
 import { createSlice, PayloadAction } from "@reduxjs/toolkit";
 
-import { PermissionEnum } from "../permissions";
+import { PermissionEnum } from "../constants/permissions.scopes";
 
 export const PERMISSIONS_FEATURE_KEY = "permissions";
 

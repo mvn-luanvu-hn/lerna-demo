@@ -1,10 +1,9 @@
 import './App.css';
-import { Button, Permission, PermissionEnum } from '@luanvuvt/react-shared';
+import { Permission, PermissionEnum } from '@luanvuvt/react-shared/permissions';
 
 function App() {
   return (
     <div className="App">
-      <Button />
       <Permission fallback={<div>Not permission</div>} requiredPermissions={[PermissionEnum.DASHBOARD]}>
         Permission
       </Permission>
