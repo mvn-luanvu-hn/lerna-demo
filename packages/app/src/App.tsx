@@ -1,10 +1,13 @@
 import './App.css';
-import { HiComponent } from '@luanvuvt/ui-react'
+import { Button, Permission, PermissionEnum } from '@luanvuvt/react-shared';
 
 function App() {
   return (
     <div className="App">
-      <HiComponent />
+      <Button />
+      <Permission fallback={<div>Not permission</div>} requiredPermissions={[PermissionEnum.DASHBOARD]}>
+        Permission
+      </Permission>
     </div>
   );
 }
