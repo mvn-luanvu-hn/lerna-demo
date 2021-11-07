@@ -5,5 +5,5 @@
 ## Usage
 
 ```
-import  Permission, permissionsReducer, PermissionEnum, setPermissions, usePermissions  from '@luanvuvt/react-shared';
+import { Permission, permissionsReducer, PermissionEnum, setPermissions, usePermissions } from '@luanvuvt/react-shared';
 ```
