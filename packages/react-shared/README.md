@@ -5,7 +5,5 @@
 ## Usage
 
 ```
-const reactShared = require('@luanvuvt/react-shared');
-
-// TODO: DEMONSTRATE API
+import  Permission, permissionsReducer, PermissionEnum, setPermissions, usePermissions  from '@luanvuvt/react-shared';
 ```
