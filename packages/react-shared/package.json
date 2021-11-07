@@ -20,6 +20,7 @@
     "url": "git+https://github.com/mvn-luanvu-hn/lerna-demo.git"
   },
   "scripts": {
+    "prepare": "cp package.json dist/",
     "build": "rollup -c"
   },
   "bugs": {
@@ -47,5 +48,6 @@
     "react-dom": "^17.0.2",
     "react-redux": "^7.2.6",
     "react-router-dom": "^5.2.0"
-  }
+  },
+  "gitHead": "743ee2eb7e6653ae446dc54a4e94f8c996b894a3"
 }
